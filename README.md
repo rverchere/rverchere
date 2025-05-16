@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Rverchere's GitHub stats](https://github-readme-stats.vercel.app/api?username=rverchere&count_private=true&theme=catppuccin_latte&show_icons=true)
+![Rverchere's GitHub stats](https://github-readme-stats.vercel.app/api?username=rverchere&count_private=true&theme=catppuccin_latte&show_icons=true) 
 
-[![DevStats Card](https://devstats.me/?username=rverchere)](https://github.com/tico88612/devstats-card)
+![DevStats Card](https://devstats.me/?username=rverchere)
 
 
 <!--
